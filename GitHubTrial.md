@@ -8,3 +8,10 @@ output:
 ---
 This is my 1st trial
 with md added
+
+
+```r
+plot(cars)
+```
+
+![](GitHubTrial_files/figure-html/unnamed-chunk-1-1.png)<!-- -->

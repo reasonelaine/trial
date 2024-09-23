@@ -8,3 +8,7 @@ output:
 ---
 This is my 1st trial
 with md added
+
+```{r, eval=TRUE}
+plot(cars)
+```
