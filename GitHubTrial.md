@@ -22,5 +22,3 @@ I am gonna add more
 ```r
 plot(iris)
 ```
-
-![](GitHubTrial_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
