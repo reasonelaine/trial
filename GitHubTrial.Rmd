@@ -15,6 +15,6 @@ plot(cars)
 
 I am gonna add more
 
-```{r, eval=False}
+```{r, eval=TRUE}
 plot(iris)
 ```
